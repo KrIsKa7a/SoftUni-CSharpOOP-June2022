@@ -5,3 +5,4 @@
 *Here you can find problem solutions for the following exercises:*
 1. [**Inheritance**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E01.%20Inheritance)
 2. [**Encapsulation**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E02.%20Encapsulation)
+3. [**Interfaces and Abstraction**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E03.%20Interfaces%20and%20Abstraction)
