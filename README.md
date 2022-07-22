@@ -8,3 +8,4 @@
 3. [**Interfaces and Abstraction**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E03.%20Interfaces%20and%20Abstraction)
 4. [**Polymorphism**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E04.%20Polymorphism)
 5. [**SOLID**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E05.%20SOLID)
+6. [**Reflection and Attributes**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E06.%20Reflection%20and%20Attributes)
