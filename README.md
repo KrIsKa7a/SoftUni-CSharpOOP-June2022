@@ -10,3 +10,4 @@
 5. [**SOLID**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E05.%20SOLID)
 6. [**Reflection and Attributes**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E06.%20Reflection%20and%20Attributes)
 7. [**Unit Testing**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E07.%20Unit%20testing)
+8. [**Mocking and Test Driven Development**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E08.%20Mocking%20and%20Test%20Driven%20Development)
