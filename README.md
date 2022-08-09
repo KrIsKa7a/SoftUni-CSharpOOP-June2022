@@ -12,3 +12,4 @@
 7. [**Unit Testing**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E07.%20Unit%20testing)
 8. [**Mocking and Test Driven Development**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E08.%20Mocking%20and%20Test%20Driven%20Development)
 9. [**Design Patterns**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E09.%20Design%20Patterns)
+10.[**Workshop - Snake Game**](https://github.com/KrIsKa7a/SoftUni-CSharpOOP-June2022/tree/main/E10.%20Workshop%20-%20Snake/SimpleSnake)
